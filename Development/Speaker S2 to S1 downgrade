@@ -3,3 +3,5 @@
 // NEW FEATURE: Removes S2 functionality from speaker
 
 // BUG FIX: Package installation no longer gets stuck
+
+// BUG FIX: Clearer error messages added for speakers than cannot downgrade to S1
