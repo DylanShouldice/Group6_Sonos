@@ -1,3 +1,5 @@
 // Create speaker S2 to S1 downgrade functionality
 
 // NEW FEATURE: Removes S2 functionality from speaker
+
+// BUG FIX: Package installation no longer gets stuck
