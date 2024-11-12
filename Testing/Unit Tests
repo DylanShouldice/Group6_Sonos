@@ -7,3 +7,5 @@
 //Tested the new colour feature implementation from the accessibility improvements user story.
 
 //Tested the identify poor colour contrast task. Found no issues.
+
+//Tested the logic that was added for the analyze resources - android task in the testing improvements to overall system stability user story.
