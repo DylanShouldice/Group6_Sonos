@@ -5,3 +5,5 @@
 //Tested the design error message UI task.
 
 //Tested the new colour feature implementation from the accessibility improvements user story.
+
+//Tested the identify poor colour contrast task. Found no issues.
