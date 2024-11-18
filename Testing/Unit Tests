@@ -19,3 +19,5 @@
 //Reviewed the error message audit.
 
 //Tested Android and iOS error push notifications.
+
+//Tested the error logging implementation for all platforms.
