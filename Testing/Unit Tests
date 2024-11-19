@@ -21,3 +21,5 @@
 //Tested Android and iOS error push notifications.
 
 //Tested the error logging implementation for all platforms.
+
+//Tested UI for system not found notification and connectivity logic for Bluetooth and Wi-Fi.
