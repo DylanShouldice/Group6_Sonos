@@ -23,3 +23,5 @@
 //Tested the error logging implementation for all platforms.
 
 //Tested UI for system not found notification and connectivity logic for Bluetooth and Wi-Fi.
+
+//Tested the actionable guidance for error messages.
